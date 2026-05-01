@@ -1,0 +1,14 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Platform
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
